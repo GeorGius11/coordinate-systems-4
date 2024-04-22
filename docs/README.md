@@ -27,7 +27,7 @@ First, clone the repository to your local machine using Git:
 
 ```bash
 git clone https://github.com/GeorGius11/coordinate-systems-4.git
-cd repository
+cd coordinate-systems-4
 ```
 
 ## Installing Live Server
