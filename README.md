@@ -24,17 +24,21 @@ Before you begin, ensure you have the following installed:
 First, clone the repository to your local machine using Git:
 
 ```bash
-git clone https://yourrepositoryurl.git
+git clone https://github.com/GeorGius11/coordinate-systems-4.git
 cd repository
 ```
 ## Installing Live Server
 Open Visual Studio Code.
+
 Navigate to the Extensions view by clicking on the square icon on the sidebar or pressing Ctrl+Shift+X.
+
 Search for "Live Server" by Ritwick Dey and install it.
+
 ## Running the Project
 To run the project:
 
 Open the src folder in Visual Studio Code.
+
 Right-click on index.html and select "Open with Live Server" or click on the "Go Live" button at the bottom right of the VS Code window to launch the server.
+
 This will automatically open your default web browser and load index.html. Live Server will watch for changes in your files and automatically reload the browser.
-```
