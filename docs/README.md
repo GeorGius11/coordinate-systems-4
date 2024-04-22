@@ -4,8 +4,7 @@
 
 This project displays an interactive SVG map that visualizes city data and administrative boundaries. It leverages HTML, CSS, and JavaScript to dynamically render SVG elements based on JSON data. The project is intended to be run using the Live Server extension in Visual Studio Code, facilitating easy development and testing.
 
-![image](https://github.com/GeorGius11/coordinate-systems-4/assets/79843910/2dfc2b3f-5ff9-49b4-9e9a-f140f4a4d0d0)
-
+![Alt text for screen reader](/docs/screenshots/main-interface.png)
 
 ## Features
 
@@ -30,12 +29,15 @@ First, clone the repository to your local machine using Git:
 git clone https://github.com/GeorGius11/coordinate-systems-4.git
 cd repository
 ```
+
 ## Installing Live Server
+
 - Open Visual Studio Code.
 - Navigate to the Extensions view by clicking on the square icon on the sidebar or pressing Ctrl+Shift+X.
 - Search for "Live Server" by Ritwick Dey and install it.
 
 ## Running the Project
+
 - To run the project:
 - Open the src folder in Visual Studio Code.
 - Right-click on index.html and select "Open with Live Server" or click on the "Go Live" button at the bottom right of the VS Code window to launch the server.
