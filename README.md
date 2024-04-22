@@ -4,6 +4,9 @@
 
 This project displays an interactive SVG map that visualizes city data and administrative boundaries. It leverages HTML, CSS, and JavaScript to dynamically render SVG elements based on JSON data. The project is intended to be run using the Live Server extension in Visual Studio Code, facilitating easy development and testing.
 
+![image](https://github.com/GeorGius11/coordinate-systems-4/assets/79843910/2dfc2b3f-5ff9-49b4-9e9a-f140f4a4d0d0)
+
+
 ## Features
 
 - **Dynamic SVG Rendering**: Generates visual representations of cities and boundaries on the map.
