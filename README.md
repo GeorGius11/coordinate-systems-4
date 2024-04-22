@@ -26,6 +26,7 @@ First, clone the repository to your local machine using Git:
 ```bash
 git clone https://yourrepositoryurl.git
 cd repository
+```
 ## Installing Live Server
 Open Visual Studio Code.
 Navigate to the Extensions view by clicking on the square icon on the sidebar or pressing Ctrl+Shift+X.
