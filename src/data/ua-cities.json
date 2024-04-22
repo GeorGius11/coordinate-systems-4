@@ -1,0 +1,30 @@
+{
+	"cities": [
+		{ "name": "Simferopol", "coordinates": [34.0522, 44.9572] },
+		{ "name": "Vinnytsia", "coordinates": [28.4816, 49.2342] },
+		{ "name": "Lutsk", "coordinates": [25.6164, 50.7472] },
+		{ "name": "Dnipro", "coordinates": [35.0461, 48.4647] },
+		{ "name": "Donetsk", "coordinates": [37.7721, 48.0053] },
+		{ "name": "Zhytomyr", "coordinates": [28.7224, 50.2649] },
+		{ "name": "Uzhhorod", "coordinates": [22.301, 48.6208] },
+		{ "name": "Zaporizhia", "coordinates": [35.1675, 47.8388] },
+		{ "name": "Ivano-Frankivsk", "coordinates": [24.7111, 48.9226] },
+		{ "name": "Kyiv", "coordinates": [30.6466, 50.4512] },
+		{ "name": "Kropyvnytskyi", "coordinates": [32.2532, 48.5216] },
+		{ "name": "Luhansk", "coordinates": [39.2953, 48.5671] },
+		{ "name": "Lviv", "coordinates": [24.0305, 49.8397] },
+		{ "name": "Mykolaiv", "coordinates": [32.0377, 46.9727] },
+		{ "name": "Odesa", "coordinates": [30.7233, 46.4825] },
+		{ "name": "Poltava", "coordinates": [34.5407, 49.5921] },
+		{ "name": "Rivne", "coordinates": [26.2675, 50.62] },
+		{ "name": "Sumy", "coordinates": [34.7805, 50.9182] },
+		{ "name": "Ternopil", "coordinates": [25.5969, 49.5468] },
+		{ "name": "Kharkiv", "coordinates": [36.2527, 49.8397] },
+		{ "name": "Kherson", "coordinates": [32.6134, 46.6225] },
+		{ "name": "Khmelnytskyi", "coordinates": [26.9524, 49.4224] },
+		{ "name": "Cherkasy", "coordinates": [32.0633, 49.4444] },
+		{ "name": "Chernivtsi", "coordinates": [25.9317, 48.2915] },
+		{ "name": "Chernihiv", "coordinates": [31.287, 51.5074] },
+		{ "name": "Sevastopol", "coordinates": [33.6186, 44.6528] }
+	]
+}

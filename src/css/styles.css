@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap");
+
+:root {
+  --font-primary: "Roboto", sans-serif;
+  --transition-speed: 300ms;
+}
+
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: var(--font-primary);
+  font-size: 16px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: green;
+}
+
+.animatable {
+  transition: opacity var(--transition-speed) ease;
+  user-select: none;
+  pointer-events: none;
+}
+
+.hidden {
+  opacity: 0;
+}
+
+svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
